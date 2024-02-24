@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <a href="https://github.com/swiftly-solution/swiftly_customdefaultammo">
     <img src="https://cdn.swiftlycs2.net/swiftly-logo.png" alt="SwiftlyLogo" width="80" height="80">
@@ -9,18 +8,26 @@
   <p align="center">
     A Swiftly plugin that modifies the ammo for all the weapons in the game.
     <br/>
-    <br/>
-    <a href="https://github.com/swiftly-solution/swiftly_customdefaultammo/issues">Report Bug</a>
-    .
-    <a href="https://github.com/swiftly-solution/swiftly_customdefaultammo/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/swiftly-solution/swiftly_customdefaultammo/total) ![Contributors](https://img.shields.io/github/contributors/swiftly-solution/swiftly_customdefaultammo?color=dark-green) ![Issues](https://img.shields.io/github/issues/swiftly-solution/swiftly_customdefaultammo) ![License](https://img.shields.io/github/license/swiftly-solution/swiftly_customdefaultammo) 
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/swiftly-solution/swiftly_customdefaultammo/total" alt="Downloads"> 
+  <img src="https://img.shields.io/github/contributors/swiftly-solution/swiftly_customdefaultammo?color=dark-green" alt="Contributors">
+  <img src="https://img.shields.io/github/issues/swiftly-solution/swiftly_customdefaultammo" alt="Issues">
+  <img src="https://img.shields.io/github/license/swiftly-solution/swiftly_customdefaultammo" alt="License">
+</p>
+
+---
+
+### Dependencies 📃
+
+- [Swiftly Admins Plugin](https://github.com/swiftly-solution/swiftly_admins)
 
 ### Installation 👀
 
-1. Download the newest [release](https://github.com/swiftly-solution/swiftly_customdefaultammo/releases).
+1. Download [swiftly admins plugin](https://github.com/swiftly-solution/swiftly_admins) (if you don't have it) and the newest [release of this plugin](https://github.com/swiftly-solution/swiftly_customdefaultammo/releases).
 2. Perform a drag-and-drop installation.
 3. Go in `addons/swiftly/configs/plugins/customdefaultammo.json` and modify the configuration as you wish.
 
